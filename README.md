@@ -1,10 +1,4 @@
-# dotNET CloudNative
-
-本Repo翻译自微软官方《Architecting Cloud Native .NET Apps》，  翻译内容内嵌译者多年使用dotNET Cloud Native 的使用心得，  
-
-另外Repo内包含原始英文版本，欢迎下载阅读。
-
-如果错误或理解问题，请不吝赐教。  
+> 本Repo翻译自微软官方《Architecting Cloud Native .NET Apps》，  翻译内容内嵌译者多年使用dotNET Cloud Native 的使用心得，  另外Repo内包含原始英文版本，欢迎下载阅读。如果错误或理解问题，请不吝赐教。  
 
 ## .NET App 云原生架构
 ### [1.什么是云原生？](./什么是云原生？/什么是云原生？.md)
